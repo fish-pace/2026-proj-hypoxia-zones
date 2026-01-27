@@ -1,4 +1,4 @@
-# fpyy_proj_template
+# fp26_hypoxia_zones
 
 Template for starting Fish-PACE project repos. 
 
