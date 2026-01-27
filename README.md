@@ -1,6 +1,6 @@
 # fp26_hypoxia_zones
 
-This is a change. 
+This project is exploring the linkages between PACE ocean color and bottom-water hypoxia in the Gulf of Mexico/Gulf of America. The project collects and collates Gulf dissolved oxygen (DO) in-situ data during the 2024-2025 PACE imagery record, to understand how ocan color and biogeochemical variables are related to hypoxia, and how satellite data 
 
 
 **Folder Structure**
