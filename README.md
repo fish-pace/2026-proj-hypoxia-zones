@@ -1,6 +1,6 @@
 # fp26_hypoxia_zones
 
-This project is exploring the linkages between PACE ocean color and bottom-water hypoxia in the Gulf of Mexico/Gulf of America. The project collects and collates Gulf dissolved oxygen (DO) in-situ data during the 2024-2025 PACE imagery record, to understand how ocan color and biogeochemical variables are related to hypoxia, and how satellite data 
+This project is exploring the linkages between PACE ocean color and bottom-water hypoxia in the Gulf of Mexico/Gulf of America. The project collects and collates Gulf dissolved oxygen (DO) in-situ data during the 2024-2025 PACE imagery record, to understand how ocean color and biogeochemical variables are related to hypoxia, and how satellite data 
 
 
 **Folder Structure**
@@ -18,8 +18,6 @@ Hypoxia Zones
 
 ## One-line Description
 
-## Planning
-
 ## Collaborators
 
 | Name                       | Role                |
@@ -35,14 +33,15 @@ Hypoxia Zones
 
 ## Planning
 
-* Initial idea: "short description"
-* Ideation jam board: Add link
-* Ideation Presentation: Add link
+* Initial idea: Explore Gulf of Mexico/Gulf of America in-situ hypoxia data relates with PACE data
+* Ideation jam board: [Add link](https://docs.google.com/document/d/1j2FWKFP0dtlLtiB45B91ITumM1m9dVWiXY8VmLuy-YM/edit?tab=t.0)
+* Ideation Presentation: [Add link](https://docs.google.com/presentation/d/1n15uKg0jrgLmLG8bFamSN8tYdTgQ37xufCMAaTA5BGI/edit?slide=id.p#slide=id.p)
 * Slack channel: fp25_proj_name
-* Project google drive: Add link
+* Project google drive: [Add link](https://drive.google.com/drive/folders/1w9-7LOjBFWZ2dLMjEvQwVDhOlgoo0sx_)
 * Final presentation: Add link
 
 ## Background
+Hypoxia studies in the northern Gulf of Mexico are critical because this region annually develops one of the largest seasonal low-oxygen dead zones in the United States, driven by excess nutrient loads (especially nitrogen and phosphorus) from the Mississippi-Atchafalaya River Basin. Excess nutrients fuel algal blooms and subsequent oxygen depletion as organic matter decomposes, reducing habitat quality for marine life. Research assists in quantifying how hypoxia alters food webs, fish production, and fisheries dynamics and informs nutrient management strategies to mitigate ecological and economic impacts on commercially important species and coastal communities. Better understanding of how nutrient inputs, water column stratification, and climate variability influence hypoxic extent and severity also supports efforts to guide agricultural practices, watershed conservation, and policy aimed at reducing the size and consequences of the dead zone. 
 
 ## Goals
 
