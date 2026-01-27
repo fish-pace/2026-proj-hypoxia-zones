@@ -17,6 +17,7 @@ need to share large datasets.
 Hypoxia Zones
 
 ## One-line Description
+Hypoxia assessment in the Northern Gulf of Mexico/America using PACE satellite data
 
 ## Collaborators
 
