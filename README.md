@@ -21,11 +21,16 @@ need to share large datasets.
 
 ## Collaborators
 
-| Name                | Role                |
-|---------------------|---------------------|
-| Participant 1       | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
+| Name                       | Role                |
+|----------------------------|---------------------|
+| Josh Harringmeyer          | Manager             |
+| Krishna Mummandi           | Participant         |
+| Storm Heidinger            | Participant         |
+| Giana Milton               | Participant         |
+| Ralf Riedel                | Participant         |
+| Christian Schmachtenberger | Participant         |
+| Prem Kumar                 | Participant         |
+|  Alireza Dehkordi          | Participant        |
 
 ## Planning
 
