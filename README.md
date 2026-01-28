@@ -48,6 +48,9 @@ Hypoxia studies in the northern Gulf of Mexico are critical because this region 
 Explore PACE features and get real-world experience with processing hyperspectral data sets
 
 ## Datasets
+* PACE satellite observations of global ocean biology, aerosols, and clouds
+* Louisiana State University and the University of Southern Mississippi 2024/5 hypoxia data collection programs
+* NOAA's NCEI dissolved oxygen datasets
 
 ## Workflow/Roadmap
 
