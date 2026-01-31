@@ -24,7 +24,7 @@ Hypoxia assessment in the Northern Gulf of Mexico/America using PACE satellite d
 | Name                       | Role                |
 |----------------------------|---------------------|
 | Josh Harringmeyer          | Manager             |
-| Krishna Mummandi           | Participant         |
+| Krishna Mummadi           | Participant         |
 | Storm Heidinger            | Participant         |
 | Giana Milton               | Participant         |
 | Ralf Riedel                | Participant         |
